@@ -1,4 +1,4 @@
-name: workmanager
+name: flutter_workmanager
 description: Flutter Workmanager. This plugin allows you to schedule background work on Android and iOS.
 version: 0.5.2
 homepage: https://github.com/fluttercommunity/flutter_workmanager
