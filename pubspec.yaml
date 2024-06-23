@@ -1,4 +1,4 @@
-name: flutter_workmanager
+name: workmanager
 
 environment:
   sdk: '>=2.17.0 <3.0.0'
